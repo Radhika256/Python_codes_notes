@@ -1,0 +1,4 @@
+Welcome
+to
+python world
+Data written to the file successfully
